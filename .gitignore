@@ -27,3 +27,11 @@
 *.i*86
 *.x86_64
 *.hex
+
+#AFNI-CVS
+.DS_Store
+CVS
+___*
+*.HEAD
+*.BRIK
+*.pyc
